@@ -108,7 +108,7 @@ const NoteCard = ({ note }) => {
                     <div className="card-saving">
                         <Spinner color={colors.colorText} />
                         <span style={{ color: colors.colorText }}>
-                            Saving...
+                            Saving 😁...
                         </span>
                     </div>
                 )}
